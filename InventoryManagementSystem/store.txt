@@ -1,0 +1,4 @@
+ID | Details | Item Type | Price | Quantity | Weight | Category | Description
+1 | baygun | ELECTRONICS | 550.0 | 4000 | 0.0 | player | igra
+2 | kori | GROCERY | 4.5 | 0 | 500.0 | banica | za
+3 | Hitachi | ELECTRONICS | 68.09 | 500 | 0.0 | sciri | kasitofon
