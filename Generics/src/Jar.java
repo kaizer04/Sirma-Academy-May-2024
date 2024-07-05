@@ -1,3 +1,4 @@
+import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.NoSuchElementException;
 
@@ -6,7 +7,7 @@ public class Jar<E> {
 	private final Deque<E> items;
 
 	public Jar() {
-		this.items = null;
+		this.items = new ArrayDeque<>();
 	}
 
 	public void add(E item) {
